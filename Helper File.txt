@@ -1,2 +1,19 @@
-Research			www.iit.du.ac.bd		/research_areas
-Research Areas Optimization 	www.iit.du.ac.bd		/research_areas/areas/15
+Research						www.iit.du.ac.bd		/research_areas
+Research Areas Optimization 				www.iit.du.ac.bd		/research_areas/areas/15
+Research Areas Cloud Computing			www.iit.du.ac.bd		/research_areas/areas/16
+Research Areas Image Processing and Pattern Recognition	www.iit.du.ac.bd		/research_areas/areas/17
+Research Areas Information Retrieval			www.iit.du.ac.bd		/research_areas/areas/18
+Research Areas Wireless Network and Security		www.iit.du.ac.bd		/research_areas/areas/19
+Research Areas Software Engineering			www.iit.du.ac.bd		/research_areas/areas/20
+
+Notices General 
+Notices General Scholarship
+Notices General Registrar Office
+Notices Projects
+Notices Projects Project
+Notices Training Programs 
+Notices Training Programs 
+Notices Training Programs 
+Notices Training Programs 
+Notices Training Programs 
+Notices Training Programs 
