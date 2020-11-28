@@ -1,24 +1,6 @@
-Notices Training Programs 				www.iit.du.ac.bd		/notice/training_programs_first
-Notices Training Programs Web Design 			www.iit.du.ac.bd		/notice/training_programs_exact/10
-Notices Training Programs Web Programming		www.iit.du.ac.bd		/notice/training_programs_exact/11
-Notices Training Programs Office Applications		www.iit.du.ac.bd		/notice/training_programs_exact/13
-Notices Training Programs Matlab-Origin-LaTeX		www.iit.du.ac.bd		/notice/training_programs_exact/19
-Notices Training Programs Mobile Application		www.iit.du.ac.bd		/notice/training_programs_exact/20
-
-Notices Undergraduate Studies 				www.iit.du.ac.bd		/notice/undergraduate_first
-Notices Undergraduate Studies BSSE			www.iit.du.ac.bd		/notice/undergraduate_exact/1
-
-Notices Graduate Studies 				www.iit.du.ac.bd		/notice/graduate_first
-Notices Graduate Studies MSSE				www.iit.du.ac.bd		/notice/graduate_exact/2
-Notices Graduate Studies MIT				www.iit.du.ac.bd		/notice/graduate_exact/3
-Notices Graduate Studies PGDIT			www.iit.du.ac.bd		/notice/graduate_exact/4
---------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------
 Life in IIT Upcoming Events 				www.iit.du.ac.bd		/upcoming_events
 
 Life in IIT News and Events 				www.iit.du.ac.bd		/view_news_events
-
-
 
 Life in IIT News and Events BBQ Night 2019								www.iit.du.ac.bd		/view_news_events/view_news_events_details/102
 Life in IIT News and Events TechCrunch 2.0: IT Awareness Workshop For Female College Students And Their Parents		www.iit.du.ac.bd		/view_news_events/view_news_events_details/101
@@ -28,8 +10,6 @@ Life in IIT News and Events Software Project lab Showcasing							www.iit.du.ac.
 Life in IIT News and Events Seminar on "Are software engineers preparing for 4th Industrial revolution?"			www.iit.du.ac.bd		/view_news_events/view_news_events_details/95
 Life in IIT News and Events Training Workshop on DevOps 2019							www.iit.du.ac.bd		/view_news_events/view_news_events_details/91
 Life in IIT News and Events Pohela Boishakh 2019								www.iit.du.ac.bd		/view_news_events/view_news_events_details/89
-
-
 
 Life in IIT News and Events Independence Cup-2019				www.iit.du.ac.bd		/view_news_events/view_news_events_details/88
 Life in IIT News and Events Tech crunch 2019				www.iit.du.ac.bd		/view_news_events/view_news_events_details/87
@@ -42,20 +22,13 @@ Life in IIT News and Events Independence Cup 2018				www.iit.du.ac.bd		/view_new
 Life in IIT News and Events IIT Family Tour 2K18				www.iit.du.ac.bd		/view_news_events/view_news_events_details/75
 Life in IIT News and Events Debate Session				www.iit.du.ac.bd		/view_news_events/view_news_events_details/74
 
-
-
 Life in IIT News and Events IIT Freshers’ Reception and Graduates' Farewell Ceremony 2017						www.iit.du.ac.bd	/view_news_events/view_news_events_details/71
 Life in IIT News and Events Workshop on Agile Development Process								www.iit.du.ac.bd	/view_news_events/view_news_events_details/70
 Life in IIT News and Events A career event focusing on industry academia collaboration took place at IIT jointly with ICT EURO Limited		www.iit.du.ac.bd	/view_news_events/view_news_events_details/67
 Life in IIT News and Events A workshop on Converting Concept to Business Implementation was jointly organized by Kovair Soft Inc. and IIT		www.iit.du.ac.bd	/view_news_events/view_news_events_details/66
 
-
-
 Life in IIT News and Events A seminar on Cyber Crime and Digital Signature.		www.iit.du.ac.bd		/view_news_events/view_news_events_details/64
 Life in IIT News and Events A hands-on session - focusing on Javascript and ReactJS at IITDU.	www.iit.du.ac.bd		/view_news_events/view_news_events_details/63
-
-
-
 
 Life in IIT News and Events Borshoboron 1423				www.iit.du.ac.bd		/view_news_events/view_news_events_details/61
 Life in IIT News and Events IITians won against Applied Chemistry		www.iit.du.ac.bd		/view_news_events/view_news_events_details/56
@@ -76,15 +49,11 @@ Life in IIT News and Events IIT in 2nd Round				www.iit.du.ac.bd		/view_news_eve
 
 Life in IIT Achievements			www.iit.du.ac.bd		/view_achievements
 
-
-
 Life in IIT Achievement NSERC scholarship 					www.iit.du.ac.bd	/view_achievements/view_achievements_details/63
 Life in IIT Achievement International Blockchain Olympiad (IBCOL) 2020			www.iit.du.ac.bd	/view_achievements/view_achievements_details/62
 Life in IIT Achievement Two teams from IIT won prizes at KUET BitFest - 2019		www.iit.du.ac.bd	/view_achievements/view_achievements_details/61
 Life in IIT Achievement Research paper acceptance in the proceedings of IWoR 2019		www.iit.du.ac.bd	/view_achievements/view_achievements_details/60
 Life in IIT Achievement Research paper acceptance of Pritom Saha Akash in IJCAI 2019	www.iit.du.ac.bd	/view_achievements/view_achievements_details/59
-
-
 
 Life in IIT Achievement Research paper of Sadia Sharmin published in Pattern Recognition, Elsevier Journal	www.iit.du.ac.bd	/view_achievements/view_achievements_details/58
 Life in IIT Achievement Best Presenter Award in ICREST 2019					www.iit.du.ac.bd	/view_achievements/view_achievements_details/57
