@@ -6,11 +6,21 @@ About IIT Institution			www.iit.du.ac.bd		/about_iit/institution
 About IIT Aims and Objectives		www.iit.du.ac.bd		/about_iit/aims_and_objectives
 About IIT History 			www.iit.du.ac.bd		/about_iit/history
 About IIT Officers and Staffs		www.iit.du.ac.bd		/about_iit/staff
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+Frequently Asked Questions		www.iit.du.ac.bd		/about_iit/faq
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Academic Undergraduate Studies				www.iit.du.ac.bd		/academic/undergraduate_first
+Academic Undergraduate Studies BSSE			www.iit.du.ac.bd		/academic/undergraduate_exact/1
+
+Academic Graduate Studies				www.iit.du.ac.bd		/academic/graduate_first
+Academic Graduate Studies MSSE			www.iit.du.ac.bd		/academic/graduate_exact/2
+Academic Graduate Studies MIT				www.iit.du.ac.bd		/academic/graduate_exact/3
+Academic Graduate Studies PGDIT			www.iit.du.ac.bd		/academic/graduate_exact/4
+
 Academic Training Programs 				www.iit.du.ac.bd		/academic/training_programs_first
 Academic Training Programs Web Design			www.iit.du.ac.bd		/academic/training_programs_exact/10
 Academic Training Programs Web Programming		www.iit.du.ac.bd		/academic/training_programs_exact/11
@@ -63,7 +73,7 @@ Notices Graduate Studies PGDIT				www.iit.du.ac.bd		/notice/graduate_exact/4
 
 
 
-Frequently Asked Questions				www.iit.du.ac.bd		/about_iit/faq
+
 
 
 
