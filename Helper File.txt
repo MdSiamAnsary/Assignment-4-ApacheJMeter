@@ -1,3 +1,10 @@
+Academic Training Programs 				www.iit.du.ac.bd		/academic/training_programs_first
+Academic Training Programs Web Design			www.iit.du.ac.bd		/academic/training_programs_exact/10
+Academic Training Programs Web Programming		www.iit.du.ac.bd		/academic/training_programs_exact/11
+Academic Training Programs Office Applications		www.iit.du.ac.bd		/academic/training_programs_exact/13
+Academic Training Programs Matlab-Origin-LaTeX		www.iit.du.ac.bd		/academic/training_programs_exact/19
+Academic Training Programs Mobile Application		www.iit.du.ac.bd		/academic/training_programs_exact/20
+
 Research						www.iit.du.ac.bd		/research_areas
 Research Areas Optimization 				www.iit.du.ac.bd		/research_areas/areas/15
 Research Areas Cloud Computing			www.iit.du.ac.bd		/research_areas/areas/16
@@ -6,14 +13,102 @@ Research Areas Information Retrieval			www.iit.du.ac.bd		/research_areas/areas/1
 Research Areas Wireless Network and Security		www.iit.du.ac.bd		/research_areas/areas/19
 Research Areas Software Engineering			www.iit.du.ac.bd		/research_areas/areas/20
 
-Notices General 
-Notices General Scholarship
-Notices General Registrar Office
-Notices Projects
-Notices Projects Project
-Notices Training Programs 
-Notices Training Programs 
-Notices Training Programs 
-Notices Training Programs 
-Notices Training Programs 
-Notices Training Programs 
+Notices General 					www.iit.du.ac.bd		/notice/general_first
+Notices General Scholarship				www.iit.du.ac.bd		/notice/general_exact/16
+Notices General Registrar Office				www.iit.du.ac.bd		/notice/general_exact/17
+
+Notices Projects					www.iit.du.ac.bd		/notice/project_first
+Notices Projects Project				www.iit.du.ac.bd		/notice/project_exact/21
+
+Notices Training Programs 				www.iit.du.ac.bd		/notice/training_programs_first
+Notices Training Programs Web Design 			www.iit.du.ac.bd		/notice/training_programs_exact/10
+Notices Training Programs Web Programming		www.iit.du.ac.bd		/notice/training_programs_exact/11
+Notices Training Programs Office Applications		www.iit.du.ac.bd		/notice/training_programs_exact/13
+Notices Training Programs Matlab-Origin-LaTeX		www.iit.du.ac.bd		/notice/training_programs_exact/19
+Notices Training Programs Mobile Application		www.iit.du.ac.bd		/notice/training_programs_exact/20
+
+Notices Undergraduate Studies 				www.iit.du.ac.bd		/notice/undergraduate_first
+Notices Undergraduate Studies BSSE			www.iit.du.ac.bd		/notice/undergraduate_exact/1
+
+Notices Graduate Studies 				www.iit.du.ac.bd		/notice/graduate_first
+Notices Graduate Studies MSSE				www.iit.du.ac.bd		/notice/graduate_exact/2
+Notices Graduate Studies MIT				www.iit.du.ac.bd		/notice/graduate_exact/3
+Notices Graduate Studies PGDIT				www.iit.du.ac.bd		/notice/graduate_exact/4
+
+IIT + Industry Collaboration Company List			www.iit.du.ac.bd		/home/company_list
+
+Frequently Asked Questions				www.iit.du.ac.bd		/about_iit/faq
+
+Life in IIT Upcoming Events 				www.iit.du.ac.bd		/upcoming_events
+
+Life in IIT News and Events 				www.iit.du.ac.bd		/view_news_events
+
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/102
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/101
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/99
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/97
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/96
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/95
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/91
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/89
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/88
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/87
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/85
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/83
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/82
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/81
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/79
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/78
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/75
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/74
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/71
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/70
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/67
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/66
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/64
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/63
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/61
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/56
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/54
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/53
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/52
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/51
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/50
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/49
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/43
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/42
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/41
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/40
+Life in IIT News and Events						www.iit.du.ac.bd		/view_news_events/view_news_events_details/39
+Life in IIT News and Events IIT in 2nd Round				www.iit.du.ac.bd		/view_news_events/view_news_events_details/38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
