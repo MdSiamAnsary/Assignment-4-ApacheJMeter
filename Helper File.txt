@@ -1,10 +1,25 @@
+Home 						www.iit.du.ac.bd		/home
+IIT + Industry Collaboration Company List			www.iit.du.ac.bd		/home/company_list
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+About IIT Institution			www.iit.du.ac.bd		/about_iit/institution
+About IIT Aims and Objectives		www.iit.du.ac.bd		/about_iit/aims_and_objectives
+About IIT History 			www.iit.du.ac.bd		/about_iit/history
+About IIT Officers and Staffs		www.iit.du.ac.bd		/about_iit/staff
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 Academic Training Programs 				www.iit.du.ac.bd		/academic/training_programs_first
 Academic Training Programs Web Design			www.iit.du.ac.bd		/academic/training_programs_exact/10
 Academic Training Programs Web Programming		www.iit.du.ac.bd		/academic/training_programs_exact/11
 Academic Training Programs Office Applications		www.iit.du.ac.bd		/academic/training_programs_exact/13
 Academic Training Programs Matlab-Origin-LaTeX		www.iit.du.ac.bd		/academic/training_programs_exact/19
 Academic Training Programs Mobile Application		www.iit.du.ac.bd		/academic/training_programs_exact/20
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
 Research						www.iit.du.ac.bd		/research_areas
 Research Areas Optimization 				www.iit.du.ac.bd		/research_areas/areas/15
 Research Areas Cloud Computing			www.iit.du.ac.bd		/research_areas/areas/16
@@ -12,7 +27,13 @@ Research Areas Image Processing and Pattern Recognition	www.iit.du.ac.bd		/resea
 Research Areas Information Retrieval			www.iit.du.ac.bd		/research_areas/areas/18
 Research Areas Wireless Network and Security		www.iit.du.ac.bd		/research_areas/areas/19
 Research Areas Software Engineering			www.iit.du.ac.bd		/research_areas/areas/20
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 Notices General 					www.iit.du.ac.bd		/notice/general_first
 Notices General Scholarship				www.iit.du.ac.bd		/notice/general_exact/16
 Notices General Registrar Office				www.iit.du.ac.bd		/notice/general_exact/17
@@ -34,12 +55,23 @@ Notices Graduate Studies 				www.iit.du.ac.bd		/notice/graduate_first
 Notices Graduate Studies MSSE				www.iit.du.ac.bd		/notice/graduate_exact/2
 Notices Graduate Studies MIT				www.iit.du.ac.bd		/notice/graduate_exact/3
 Notices Graduate Studies PGDIT				www.iit.du.ac.bd		/notice/graduate_exact/4
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-IIT + Industry Collaboration Company List			www.iit.du.ac.bd		/home/company_list
+
+
+
+
+
 
 Frequently Asked Questions				www.iit.du.ac.bd		/about_iit/faq
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 Life in IIT Upcoming Events 				www.iit.du.ac.bd		/upcoming_events
+
+
 
 Life in IIT News and Events 				www.iit.du.ac.bd		/view_news_events
 
@@ -83,6 +115,36 @@ Life in IIT News and Events Rifat and Bafi stood 7th in Ocean Academic Competiti
 Life in IIT News and Events IIT in 2nd Round				www.iit.du.ac.bd		/view_news_events/view_news_events_details/38
 
 
+
+Life in IIT Achievements			www.iit.du.ac.bd		/view_achievements
+
+Life in IIT Achievement NSERC scholarship 					www.iit.du.ac.bd	/view_achievements/view_achievements_details/63
+Life in IIT Achievement International Blockchain Olympiad (IBCOL) 2020			www.iit.du.ac.bd	/view_achievements/view_achievements_details/62
+Life in IIT Achievement Two teams from IIT won prizes at KUET BitFest - 2019		www.iit.du.ac.bd	/view_achievements/view_achievements_details/61
+Life in IIT Achievement Research paper acceptance in the proceedings of IWoR 2019		www.iit.du.ac.bd	/view_achievements/view_achievements_details/60
+Life in IIT Achievement Research paper acceptance of Pritom Saha Akash in IJCAI 2019		www.iit.du.ac.bd	/view_achievements/view_achievements_details/59
+Life in IIT Achievement Research paper of Sadia Sharmin published in Pattern Recognition, Elsevier Journal	www.iit.du.ac.bd	/view_achievements/view_achievements_details/58
+Life in IIT Achievement Best Presenter Award in ICREST 2019					www.iit.du.ac.bd	/view_achievements/view_achievements_details/57
+Life in IIT Achievement IITians win debate competition						www.iit.du.ac.bd	/view_achievements/view_achievements_details/56
+Life in IIT Achievement Positions in PI-PI memory competition by the Department of Mathematics		www.iit.du.ac.bd	/view_achievements/view_achievements_details/54
+Life in IIT Achievement Second runners up at BUET CSE Fest Inter University Project Show 2018		www.iit.du.ac.bd	/view_achievements/view_achievements_details/53
+Life in IIT Achievement Second runners up at Technival 2018 Project Showcasing Organized by KUET	www.iit.du.ac.bd	/view_achievements/view_achievements_details/52
+Life in IIT Achievement Position of joint runners up at Cybernauts 2018 Organized By NSUCEC		www.iit.du.ac.bd	/view_achievements/view_achievements_details/51
+Life in IIT Achievement First prize at NSU Technovation Hackathon 2018				www.iit.du.ac.bd	/view_achievements/view_achievements_details/50
+Life in IIT Achievement Best Paper Award Winner in icIVPR 2017					www.iit.du.ac.bd	/view_achievements/view_achievements_details/49
+Life in IIT Achievement Runners-up in Inter Department Cricket Tournament 2016			www.iit.du.ac.bd	/view_achievements/view_achievements_details/48
+Life in IIT Achievement IEEE BDS Best Paper Award Winner in ICCIT 2015				www.iit.du.ac.bd	/view_achievements/view_achievements_details/47
+Life in IIT Achievement Dr. Fatema Rashid Best Paper Award Winner in ICCIT 2015			www.iit.du.ac.bd	/view_achievements/view_achievements_details/46
+Life in IIT Achievement Champions SUST CSE Carnival 2015 - Software Contest			www.iit.du.ac.bd	/view_achievements/view_achievements_details/45
+Life in IIT Achievement Champion Dhakathon 2015						www.iit.du.ac.bd	/view_achievements/view_achievements_details/44
+Life in IIT Achievement Best Scorer in Inter Department Basketball Competition 2015			www.iit.du.ac.bd	/view_achievements/view_achievements_details/43
+Life in IIT Achievement Runners-up in Inter Department Basketball Competition 2015			www.iit.du.ac.bd	/view_achievements/view_achievements_details/42
+Life in IIT Achievement Champions Code Warriors' Challenge 2015 - Web Application			www.iit.du.ac.bd	/view_achievements/view_achievements_details/41
+Life in IIT Achievement Runner-up in the best student paper award category at SKIMA 2014		www.iit.du.ac.bd	/view_achievements/view_achievements_details/39
+Life in IIT Achievement Best Presenter Award ICIEV 2014					www.iit.du.ac.bd	/view_achievements/view_achievements_details/38
+Life in IIT Achievement Best Student Paper Award - 16th ICCIT					www.iit.du.ac.bd	/view_achievements/view_achievements_details/37
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
