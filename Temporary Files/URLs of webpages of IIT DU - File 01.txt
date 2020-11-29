@@ -1,20 +1,3 @@
-Life in IIT News and Events Borshoboron 1423				www.iit.du.ac.bd		/view_news_events/view_news_events_details/61
-Life in IIT News and Events IITians won against Applied Chemistry		www.iit.du.ac.bd		/view_news_events/view_news_events_details/56
-Life in IIT News and Events IITDU Android Study Jam Bangladesh 2015		www.iit.du.ac.bd		/view_news_events/view_news_events_details/54
-Life in IIT News and Events Agile Bangladesh 2015				www.iit.du.ac.bd		/view_news_events/view_news_events_details/53
-Life in IIT News and Events Software Industry in Bangladesh: A Career Perspective	www.iit.du.ac.bd		/view_news_events/view_news_events_details/52
-Life in IIT News and Events Pohela Boishakh 1422				www.iit.du.ac.bd		/view_news_events/view_news_events_details/51
-Life in IIT News and Events Tech Talk: Clean Code - Dependency Injection		www.iit.du.ac.bd		/view_news_events/view_news_events_details/50
-Life in IIT News and Events Tech Talk: Clean Code - Unit Testing		www.iit.du.ac.bd		/view_news_events/view_news_events_details/49
-Life in IIT News and Events IIT in Super Four				www.iit.du.ac.bd		/view_news_events/view_news_events_details/43
-Life in IIT News and Events IIT Freshers’ Reception and Farewell Ceremony 2015	www.iit.du.ac.bd		/view_news_events/view_news_events_details/42
-Life in IIT News and Events IIT Academic Excellence Gold Medal		www.iit.du.ac.bd		/view_news_events/view_news_events_details/41
-Life in IIT News and Events Saraswati Puja 2015				www.iit.du.ac.bd		/view_news_events/view_news_events_details/40
-Life in IIT News and Events Rifat and Bafi stood 7th in Ocean Academic Competition	www.iit.du.ac.bd		/view_news_events/view_news_events_details/39
-Life in IIT News and Events IIT in 2nd Round				www.iit.du.ac.bd		/view_news_events/view_news_events_details/38
-
-
-
 Life in IIT Achievements			www.iit.du.ac.bd		/view_achievements
 
 Life in IIT Achievement NSERC scholarship 					www.iit.du.ac.bd	/view_achievements/view_achievements_details/63
