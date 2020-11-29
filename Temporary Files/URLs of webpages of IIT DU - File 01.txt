@@ -1,27 +1,3 @@
-Life in IIT Upcoming Events 				www.iit.du.ac.bd		/upcoming_events
-
-Life in IIT News and Events 				www.iit.du.ac.bd		/view_news_events
-
-Life in IIT News and Events BBQ Night 2019								www.iit.du.ac.bd		/view_news_events/view_news_events_details/102
-Life in IIT News and Events TechCrunch 2.0: IT Awareness Workshop For Female College Students And Their Parents		www.iit.du.ac.bd		/view_news_events/view_news_events_details/101
-Life in IIT News and Events IIT Futsal Tournament 2019							www.iit.du.ac.bd		/view_news_events/view_news_events_details/99
-Life in IIT News and Events IIT Freshers Reception and Farewell - 2019						www.iit.du.ac.bd		/view_news_events/view_news_events_details/97
-Life in IIT News and Events Software Project lab Showcasing							www.iit.du.ac.bd		/view_news_events/view_news_events_details/96
-Life in IIT News and Events Seminar on "Are software engineers preparing for 4th Industrial revolution?"			www.iit.du.ac.bd		/view_news_events/view_news_events_details/95
-Life in IIT News and Events Training Workshop on DevOps 2019							www.iit.du.ac.bd		/view_news_events/view_news_events_details/91
-Life in IIT News and Events Pohela Boishakh 2019								www.iit.du.ac.bd		/view_news_events/view_news_events_details/89
-
-Life in IIT News and Events Independence Cup-2019				www.iit.du.ac.bd		/view_news_events/view_news_events_details/88
-Life in IIT News and Events Tech crunch 2019				www.iit.du.ac.bd		/view_news_events/view_news_events_details/87
-Life in IIT News and Events IIT Debate fest 2019				www.iit.du.ac.bd		/view_news_events/view_news_events_details/85
-Life in IIT News and Events IIT Family Tour 2019				www.iit.du.ac.bd		/view_news_events/view_news_events_details/83
-Life in IIT News and Events IIT Badminton Tournament 2019			www.iit.du.ac.bd		/view_news_events/view_news_events_details/82
-Life in IIT News and Events SPL Project Showcasing 2018			www.iit.du.ac.bd		/view_news_events/view_news_events_details/81
-Life in IIT News and Events ITPL 2018					www.iit.du.ac.bd		/view_news_events/view_news_events_details/79
-Life in IIT News and Events Independence Cup 2018				www.iit.du.ac.bd		/view_news_events/view_news_events_details/78
-Life in IIT News and Events IIT Family Tour 2K18				www.iit.du.ac.bd		/view_news_events/view_news_events_details/75
-Life in IIT News and Events Debate Session				www.iit.du.ac.bd		/view_news_events/view_news_events_details/74
-
 Life in IIT News and Events IIT Freshers’ Reception and Graduates' Farewell Ceremony 2017						www.iit.du.ac.bd	/view_news_events/view_news_events_details/71
 Life in IIT News and Events Workshop on Agile Development Process								www.iit.du.ac.bd	/view_news_events/view_news_events_details/70
 Life in IIT News and Events A career event focusing on industry academia collaboration took place at IIT jointly with ICT EURO Limited		www.iit.du.ac.bd	/view_news_events/view_news_events_details/67
