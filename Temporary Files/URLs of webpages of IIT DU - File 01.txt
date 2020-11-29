@@ -1,6 +1,3 @@
-Life in IIT News and Events A seminar on Cyber Crime and Digital Signature.		www.iit.du.ac.bd		/view_news_events/view_news_events_details/64
-Life in IIT News and Events A hands-on session - focusing on Javascript and ReactJS at IITDU.	www.iit.du.ac.bd		/view_news_events/view_news_events_details/63
-
 Life in IIT News and Events Borshoboron 1423				www.iit.du.ac.bd		/view_news_events/view_news_events_details/61
 Life in IIT News and Events IITians won against Applied Chemistry		www.iit.du.ac.bd		/view_news_events/view_news_events_details/56
 Life in IIT News and Events IITDU Android Study Jam Bangladesh 2015		www.iit.du.ac.bd		/view_news_events/view_news_events_details/54
