@@ -1,3 +1,4 @@
+IIT Site						www.iit.du.ac.bd		/
 Home 						www.iit.du.ac.bd		/home
 IIT + Industry Collaboration Company List			www.iit.du.ac.bd		/home/company_list
 
@@ -13,7 +14,7 @@ About IIT Faculty 				www.iit.du.ac.bd	/about_iit/faculty
 Faculty Dr. Mohammed Shafiul Alam Khan		www.iit.du.ac.bd	/about_iit/individual_teacher/63
 Faculty Dr. Zerina Begum			www.iit.du.ac.bd	/about_iit/individual_teacher/16
 Faculty Mohd. Zulfiquar Hafiz			www.iit.du.ac.bd	/about_iit/individual_teacher/20
-Faculty Md. Mahbubul Alam Joarder		www.iit.du.ac.bd	/about_iit/individual_teacher/11
+Faculty Dr. Md. Mahbubul Alam Joarder		www.iit.du.ac.bd	/about_iit/individual_teacher/11
 Faculty Dr. Kazi Muheymin-Us-Sakib		www.iit.du.ac.bd	/about_iit/individual_teacher/47
 Faculty Dr. Md. Shariful Islam			www.iit.du.ac.bd	/about_iit/individual_teacher/19
 Faculty Dr. Mohammad Shoyaib			www.iit.du.ac.bd	/about_iit/individual_teacher/48
